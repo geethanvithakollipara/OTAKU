@@ -1,0 +1,9 @@
+numpy
+opencv-python-headless
+pillow
+easyocr
+manga-ocr
+deep-translator
+fastapi
+uvicorn
+python-multipart

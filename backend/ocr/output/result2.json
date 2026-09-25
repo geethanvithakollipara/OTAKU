@@ -1,0 +1,85 @@
+{
+  "image_path": "test_images\\page1.jpg",
+  "width": 1648,
+  "height": 1198,
+  "blocks": [
+    {
+      "text": "?",
+      "confidence": 0.3974856287970887,
+      "bbox": [
+        628,
+        238,
+        684,
+        310
+      ],
+      "original_language": null,
+      "translated_text": null,
+      "translated_language": null
+    },
+    {
+      "text": "1",
+      "confidence": 0.5041524468234435,
+      "bbox": [
+        1463,
+        26,
+        1523,
+        439
+      ],
+      "original_language": null,
+      "translated_text": null,
+      "translated_language": null
+    },
+    {
+      "text": "私",
+      "confidence": 0.9858538701768147,
+      "bbox": [
+        566,
+        428,
+        592,
+        458
+      ],
+      "original_language": null,
+      "translated_text": null,
+      "translated_language": null
+    },
+    {
+      "text": "1",
+      "confidence": 0.8310829041069248,
+      "bbox": [
+        518,
+        428,
+        544,
+        590
+      ],
+      "original_language": null,
+      "translated_text": null,
+      "translated_language": null
+    },
+    {
+      "text": "ががは",
+      "confidence": 0.993960807351816,
+      "bbox": [
+        140,
+        518,
+        220,
+        544
+      ],
+      "original_language": null,
+      "translated_text": null,
+      "translated_language": null
+    },
+    {
+      "text": "川",
+      "confidence": 0.7545082162261414,
+      "bbox": [
+        456,
+        998,
+        514,
+        1026
+      ],
+      "original_language": null,
+      "translated_text": null,
+      "translated_language": null
+    }
+  ]
+}
